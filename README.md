@@ -1,35 +1,39 @@
 # Prabu GJ
 
-**Aspiring Software Developer | Python & MySQL Developer**
+**Aspiring Software Developer | Python & MySQL Specialist**
 
-Recent high school graduate entering the computer science field with a strong foundation in Python programming and database management. Dedicated to solving real-world problems through efficient code and continuous learning.
+Recent high school graduate entering the computer science field. Focused on building efficient solutions using Python and database technologies. Passionate about solving real-world problems through logical programming and continuous technical exploration.
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-*   **Languages:** Python, SQL
-*   **Databases:** MySQL
-*   **Tools & Version Control:** Git, GitHub, VS Code
-*   **Libraries/Frameworks:** Tkinter (GUI Development)
-*   **Operating System:** Windows
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> |
+| **Development** | <img src="https://img.shields.io/badge/Tkinter-007ACC?style=flat-square&logo=python&logoColor=white" alt="Tkinter"> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"> |
+| **OS** | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"> |
+
+---
 
 ## Current Focus
 
-*   Developing desktop applications using Python and Tkinter.
-*   Integrating Python with MySQL for dynamic data storage and retrieval.
-*   Mastering Git workflows for version control and collaboration.
-*   Exploring algorithms and data structures to enhance problem-solving capabilities.
+*   **Application Development:** Building interactive desktop applications using Python and Tkinter.
+*   **Database Integration:** Connecting Python applications with MySQL for robust data management.
+*   **Version Control:** Implementing professional Git workflows for code tracking and collaboration.
+*   **Problem Solving:** Enhancing algorithmic thinking to develop efficient solutions for user-centric problems.
 
 ## Professional Objective
 
-To leverage my skills in Python and database management to build scalable solutions. I am actively seeking opportunities to apply my knowledge in real-world scenarios, contribute to open-source projects, and expand my technical expertise in software development.
+To leverage my foundation in Python and MySQL to contribute to meaningful software projects. I am dedicated to mastering full-stack development principles and adapting to new technologies to deliver high-quality, scalable solutions.
 
 ## Contact
 
-*   **Email:** prabugj14@gmail.com
-*   **GitHub:** github.com/Prabugj14
+*   **Email:** [prabugj14@gmail.com](mailto:prabugj14@gmail.com)
+*   **Profile:** [github.com/Prabugj14](https://github.com/Prabugj14)
 
 ---
 
-> "Simplicity is the soul of efficiency." – Austin Freeman
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
