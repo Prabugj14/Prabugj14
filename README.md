@@ -1,40 +1,39 @@
-# Python Projects Portfolio
+# Prabu GJ
 
-### 👤 About Me
-Hi, I'm **Prabu**. I am a 12th-grade passout entering the computer field. I love solving real-world problems and learning new technologies. Currently exploring Python, MySQL, and GUI development.
+**Aspiring Software Developer | Python & MySQL Specialist**
 
----
-
-### 🚀 Projects
-
-#### 1. Tic-Tac-Toe Game
-A classic two-player game built with Python and Tkinter.
-- **Features:**
-  - Interactive GUI with turn-based gameplay.
-  - Automatic win/tie detection.
-  - Scoreboard tracking for X and O.
-  - Visual feedback (Green for win, Red for tie).
-
-#### 2. Desktop Calculator
-A functional calculator for basic arithmetic operations.
-- **Features:**
-  - Addition, Subtraction, Multiplication, Division.
-  - Error handling for invalid inputs.
-  - Clean and user-friendly interface.
+Recent high school graduate entering the computer science field. Focused on building efficient solutions using Python and database technologies. Passionate about solving real-world problems through logical programming and continuous technical exploration.
 
 ---
 
-### 🛠️ Tech Stack
+## Technical Stack
 
-| Category       | Technologies          |
-|----------------|-----------------------|
-| **Language**   | Python                |
-| **GUI**        | Tkinter               |
-| **Database**   | MySQL (Learning)      |
-| **Tools**      | Git, GitHub, VS Code  |
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> |
+| **Development** | <img src="https://img.shields.io/badge/Tkinter-007ACC?style=flat-square&logo=python&logoColor=white" alt="Tkinter"> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"> |
+| **OS** | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"> |
 
 ---
 
-### 📬 Contact
-- **Email:** prabugj14@gmail.com
-- **GitHub:** [Prabugj14](https://github.com/Prabugj14)
+## Current Focus
+
+*   **Application Development:** Building interactive desktop applications using Python and Tkinter.
+*   **Database Integration:** Connecting Python applications with MySQL for robust data management.
+*   **Version Control:** Implementing professional Git workflows for code tracking and collaboration.
+*   **Problem Solving:** Enhancing algorithmic thinking to develop efficient solutions for user-centric problems.
+
+## Professional Objective
+
+To leverage my foundation in Python and MySQL to contribute to meaningful software projects. I am dedicated to mastering full-stack development principles and adapting to new technologies to deliver high-quality, scalable solutions.
+
+## Contact
+
+*   **Email:** [prabugj14@gmail.com](mailto:prabugj14@gmail.com)
+*   **Profile:** [github.com/Prabugj14](https://github.com/Prabugj14)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
